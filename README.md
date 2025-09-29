@@ -1,2 +1,2 @@
-# Facebook_clone
+Project 1_Facebook-Clone
 This is a facebook homepage clone I made as the second project in my HTML and CSS. 
